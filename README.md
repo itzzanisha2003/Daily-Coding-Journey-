@@ -12,3 +12,12 @@ This repository documents my day-to-day progress in learning, building, and expl
 - **Accountability:** Stay consistent and track progress.
 - **Reflection:** Learn by explaining and reviewing daily work.
 - **Community:** Share the journey and connect with others.
+
+
+# Daily Coding Journey
+
+This repo contains my daily Java coding practice.
+
+- problems/: Problem statements
+- solutions/: Java solutions
+- progress.md: My daily progress
