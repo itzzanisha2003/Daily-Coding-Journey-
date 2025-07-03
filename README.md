@@ -18,6 +18,6 @@ This repository documents my day-to-day progress in learning, building, and expl
 
 This repo contains my daily Java coding practice.
 
-- problems/: Problem statements
-- solutions/: Java solutions
+- problems: Problem statements
+- solutions: Java solutions
 - progress.md: My daily progress
